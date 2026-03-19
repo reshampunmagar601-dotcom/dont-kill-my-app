@@ -1,4 +1,4 @@
----
+---Powered by Blogger
 manufacturer: 
     - oppo
 
